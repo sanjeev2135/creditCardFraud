@@ -1,2 +1,3 @@
-Description
-A detection model that flags fraudlent credit card transactions using three Machine Learning Algorithms
+Abstract: A detection model that flags fraudlent credit card transactions using three Machine Learning Algorithms.
+
+Algorithms Used: Ada Boost, K-Nearest Neighbour, 
