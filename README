@@ -1,3 +1,5 @@
-Abstract: A detection model that flags fraudlent credit card transactions using three Machine Learning Algorithms.
+Project: A detection model that flags fraudlent credit card transactions using three Machine Learning Algorithms.
 
-Algorithms Used: Ada Boost, K-Nearest Neighbour, 
+Algorithms Used: Ada Boost, K-Nearest Neighbour, Random Forest.
+
+Description: 
