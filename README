@@ -2,4 +2,5 @@ Project: A detection model that flags fraudlent credit card transactions using t
 
 Algorithms Used: Ada Boost, K-Nearest Neighbour, Random Forest.
 
-Description: 
+Description: This project is a machine learning model which can detect fraud and genuine transactions in a dataset. The dataset used to train 
+             this model is aquired from Kaggle. It has been trained on half of the dataset and the other half is used to test the model. 
